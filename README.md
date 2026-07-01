@@ -1,4 +1,7 @@
-AI RECOMMENDATION SYSTEM
+AI RECOMMENDATION SYSTEM -
+
+
+
 Real-time recommendation engine that re-ranks suggestions on every user click using session-vector embeddings, cosine similarity, and epsilon-greedy exploration — built with Flask, NumPy, and scikit-learn.
 
 ```
