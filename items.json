@@ -1,0 +1,49 @@
+[
+  {"id": 1, "title": "The Last Signal from Europa", "category": "sci-fi", "tags": ["space", "aliens", "exploration", "future"], "popularity": 0.82},
+  {"id": 2, "title": "Neural Drift", "category": "sci-fi", "tags": ["ai", "dystopia", "cyberpunk", "future"], "popularity": 0.77},
+  {"id": 3, "title": "Colony Ship Andromeda", "category": "sci-fi", "tags": ["space", "colonization", "survival"], "popularity": 0.61},
+  {"id": 4, "title": "Quantum Heist", "category": "sci-fi", "tags": ["quantum", "heist", "future", "ai"], "popularity": 0.70},
+  {"id": 5, "title": "Second Sun Rising", "category": "sci-fi", "tags": ["space", "climate", "exploration"], "popularity": 0.55},
+
+  {"id": 6, "title": "Championship Overtime", "category": "sports", "tags": ["basketball", "playoffs", "highlights"], "popularity": 0.85},
+  {"id": 7, "title": "Marathon of a Lifetime", "category": "sports", "tags": ["running", "endurance", "training"], "popularity": 0.58},
+  {"id": 8, "title": "The Underdog Squad", "category": "sports", "tags": ["football", "team", "comeback"], "popularity": 0.73},
+  {"id": 9, "title": "Ace Under Pressure", "category": "sports", "tags": ["tennis", "grand-slam", "highlights"], "popularity": 0.64},
+  {"id": 10, "title": "Trail Running Diaries", "category": "sports", "tags": ["running", "outdoors", "endurance"], "popularity": 0.47},
+
+  {"id": 11, "title": "Inside the Next iPhone", "category": "tech", "tags": ["gadgets", "review", "smartphones"], "popularity": 0.80},
+  {"id": 12, "title": "How Transformers Changed AI", "category": "tech", "tags": ["ai", "deep-learning", "explainer"], "popularity": 0.76},
+  {"id": 13, "title": "Building Your First Robot", "category": "tech", "tags": ["robotics", "diy", "engineering"], "popularity": 0.52},
+  {"id": 14, "title": "The Rise of Edge Computing", "category": "tech", "tags": ["cloud", "infrastructure", "explainer"], "popularity": 0.49},
+  {"id": 15, "title": "Chip Wars: Inside the Fab", "category": "tech", "tags": ["semiconductors", "hardware", "explainer"], "popularity": 0.63},
+
+  {"id": 16, "title": "30-Minute Weeknight Pasta", "category": "cooking", "tags": ["quick", "italian", "dinner"], "popularity": 0.71},
+  {"id": 17, "title": "The Art of Sourdough", "category": "cooking", "tags": ["baking", "bread", "technique"], "popularity": 0.66},
+  {"id": 18, "title": "Street Food of Bangkok", "category": "cooking", "tags": ["travel", "asian", "street-food"], "popularity": 0.59},
+  {"id": 19, "title": "Five Knife Skills Everyone Needs", "category": "cooking", "tags": ["technique", "basics", "tutorial"], "popularity": 0.54},
+  {"id": 20, "title": "Plant-Based Comfort Food", "category": "cooking", "tags": ["vegan", "dinner", "healthy"], "popularity": 0.57},
+
+  {"id": 21, "title": "48 Hours in Kyoto", "category": "travel", "tags": ["japan", "city-guide", "culture"], "popularity": 0.68},
+  {"id": 22, "title": "Backpacking the Andes", "category": "travel", "tags": ["hiking", "adventure", "south-america"], "popularity": 0.55},
+  {"id": 23, "title": "Budget Guide to Southeast Asia", "category": "travel", "tags": ["budget", "asia", "backpacking"], "popularity": 0.62},
+  {"id": 24, "title": "Road Tripping the Pacific Coast", "category": "travel", "tags": ["road-trip", "usa", "nature"], "popularity": 0.60},
+  {"id": 25, "title": "Hidden Beaches of the Mediterranean", "category": "travel", "tags": ["beach", "europe", "relaxation"], "popularity": 0.53},
+
+  {"id": 26, "title": "Index Funds Explained", "category": "finance", "tags": ["investing", "explainer", "personal-finance"], "popularity": 0.65},
+  {"id": 27, "title": "Inside the Fed's Next Move", "category": "finance", "tags": ["macro", "economy", "news"], "popularity": 0.58},
+  {"id": 28, "title": "How to Read a Balance Sheet", "category": "finance", "tags": ["investing", "tutorial", "basics"], "popularity": 0.44},
+  {"id": 29, "title": "The Rise of Retail Investors", "category": "finance", "tags": ["investing", "trends", "news"], "popularity": 0.51},
+  {"id": 30, "title": "Building an Emergency Fund", "category": "finance", "tags": ["personal-finance", "basics", "savings"], "popularity": 0.48},
+
+  {"id": 31, "title": "The Science of Sleep", "category": "health", "tags": ["sleep", "wellness", "explainer"], "popularity": 0.67},
+  {"id": 32, "title": "Strength Training for Beginners", "category": "health", "tags": ["fitness", "workout", "basics"], "popularity": 0.72},
+  {"id": 33, "title": "Understanding Gut Health", "category": "health", "tags": ["nutrition", "wellness", "explainer"], "popularity": 0.56},
+  {"id": 34, "title": "Mindfulness in 10 Minutes a Day", "category": "health", "tags": ["mental-health", "wellness", "tutorial"], "popularity": 0.61},
+  {"id": 35, "title": "The Truth About Protein Intake", "category": "health", "tags": ["nutrition", "fitness", "explainer"], "popularity": 0.59},
+
+  {"id": 36, "title": "The Rover That Wouldn't Quit", "category": "sci-fi", "tags": ["space", "mars", "exploration"], "popularity": 0.50},
+  {"id": 37, "title": "Draft Day Gambles", "category": "sports", "tags": ["basketball", "draft", "analysis"], "popularity": 0.46},
+  {"id": 38, "title": "Open Source AI Models Compared", "category": "tech", "tags": ["ai", "review", "explainer"], "popularity": 0.69},
+  {"id": 39, "title": "Ramen From Scratch", "category": "cooking", "tags": ["asian", "technique", "dinner"], "popularity": 0.45},
+  {"id": 40, "title": "Overlanding Through Namibia", "category": "travel", "tags": ["adventure", "africa", "road-trip"], "popularity": 0.43}
+]
